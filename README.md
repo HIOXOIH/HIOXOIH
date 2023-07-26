@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, Welcome to my Linear Space! 👋👋👋
+
+### About This Human
+
+- All in Web3 since 2018, had worked on things related to Ethereum => EOS => Hyperledger => Polkadot => NFT => NFT Trading => NFT AMM protocol => Web3 Gaming.
+- Co-founded 4 Web3 projects, raised millions of dollars in funding.
+- Currently focused on Web3 Gaming, especially On-Chain Gaming / Autonomous Worlds(AWs).
+- :)
 
 <!--
 **HIOXOIH/HIOXOIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
