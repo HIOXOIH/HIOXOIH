@@ -2,9 +2,9 @@
 
 ### About This Human
 
-- All in Web3 since 2018, had worked on things related to Ethereum => EOS => Hyperledger => Polkadot => NFT => NFT Trading => NFT AMM protocol => Web3 Gaming.
+- A Web3 builder since 2018, had worked on things related to Ethereum => EOS => Hyperledger => Polkadot => NFT => NFT Trading => NFT AMM protocol => Autonomous Worlds/Fully Onchain Games.
 - Co-founded 4 Web3 projects, raised millions of dollars in funding.
-- Currently focused on Web3 Gaming, especially On-Chain Gaming / Autonomous Worlds(AWs).
+- Currently focused on Web3 Gaming, especially Autonomous Worlds(AWs)/Fully Onchain Games.
 - :)
 
 <!--
